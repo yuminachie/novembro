@@ -2,23 +2,26 @@
 
 .titulop {
     font-size: 5rem;
-    color: var(--primary);
+    color: var(--background);
     text-decoration: none;
     padding-top: 25rem;
     padding-left: 10%;
 }
 
 .imgprincipal img{
-    width: 80rem;
+    border-radius: 30px;
+    width: 70rem;
     height: auto;
     display: flex;
     float: right;
     margin-right: 10%;
+    margin-top: 30px;
+    position: relative;
 }
 
 .descricaop {
     font-size: 2rem;
-    color: var(--primary);
+    color: var(--background);
     text-decoration: none;
     padding-top: 5rem;
     padding-left: 10%;

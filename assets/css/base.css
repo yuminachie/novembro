@@ -24,8 +24,8 @@ html{
 }
 
 body{
-    background-color: var(--background);
-    color: var(--primary);
+    background-color: var(--primary);
+    color: var(--background);
     font-size: 1.6rem;
 }
 
@@ -43,7 +43,7 @@ body{
 }
 
 .borda{
-    border: 3.5px solid var(--primary);
+    border: 3.5px solid var(--background);
     margin-left: 195px;
     margin-right: 195px;
 }

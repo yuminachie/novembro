@@ -23,9 +23,9 @@
     width: calc(100% / 4 - 60px);
     margin: 10px;
     padding: 20px;
-    box-shadow: 2px 2px 16px 0px var(--background);
+    box-shadow: 2px 2px 16px 0px var(--primary);
     border-radius: 20px;
-    background-color: var(--primary);
+    background-color: var(--background);
     transition: all 0.5s ease;
 }
 
@@ -46,14 +46,14 @@
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-    color: var(--background);
+    color: var(--primary);
     font-size: 1.3rem;
     max-width: 90%;
 }
 
 .secao4-div-card h3 {
     padding-top: 10px;
-    color: var(--background);
+    color: var(--primary);
     font-family: "Noto Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 600;
