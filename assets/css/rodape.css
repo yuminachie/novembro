@@ -7,7 +7,7 @@ footer{
 
 footer .rodape{
     border-radius: 100px 100px 0px 0px;
-    background-color: var(--background); 
+    background-color: var(--foreground); 
     margin-top: 100px;
     z-index: 2;
     width: 100%;
@@ -16,7 +16,7 @@ footer .rodape{
 
 footer .descricao1{
     font-size: 1.4rem;
-    color: var(--primary);
+    color: var(--background);
     text-decoration: none;
     letter-spacing: .1rem;
 }
